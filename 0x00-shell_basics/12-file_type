@@ -1,2 +1,2 @@
-12-file_type
-file /tmp/imafile
+#!/bin/bash
+file /tmp/iamafile
